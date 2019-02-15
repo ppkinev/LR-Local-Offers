@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29.63 46.5">
+  <defs>
+    <style>
+      .a {
+        fill: #6198f7;
+      }
+
+      .a, .b, .c {
+        isolation: isolate;
+      }
+
+      .b {
+        fill: #003d98;
+      }
+
+      .c {
+        fill: #000048;
+      }
+
+      .d {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <title>marker-body</title>
+  <path class="a" d="M29.81,14.89C29.81,23.07,15,46.51,15,46.51S0.19,23.07.19,14.89A14.81,14.81,0,1,1,29.81,14.89Z" transform="translate(-0.19 -0.08)"/>
+  <path class="b" d="M15,0.14V46.58S29.81,23.14,29.81,15A14.81,14.81,0,0,0,15,.14Z" transform="translate(-0.19 -0.08)"/>
+  <circle class="c" cx="14.81" cy="15.69" r="11.19"/>
+  <circle class="d" cx="14.81" cy="14.69" r="11.19"/>
+</svg>

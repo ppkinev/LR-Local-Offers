@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="6px" height="12px" viewBox="0 0 6 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-Search" transform="translate(-505.000000, -346.000000)" fill-rule="nonzero" fill="#909090">
+            <g id="item" transform="translate(212.000000, 164.000000)">
+                <g id="card-4-copy-2" transform="translate(0.000000, 125.000000)">
+                    <path d="M298.747066,60.9407821 L297.044439,60.9407821 L297.044439,59.8241081 C297.044439,59.4047429 297.322383,59.3069726 297.518146,59.3069726 C297.713464,59.3069726 298.719673,59.3069726 298.719673,59.3069726 L298.719673,57.4633692 L297.064928,57.4569106 C295.228006,57.4569106 294.809977,58.8319296 294.809977,59.7118616 L294.809977,60.9407821 L293.747645,60.9407821 L293.747645,62.8405087 L294.809977,62.8405087 C294.809977,65.2785283 294.809977,68.2160892 294.809977,68.2160892 L297.044439,68.2160892 C297.044439,68.2160892 297.044439,65.2495759 297.044439,62.8405087 L298.552194,62.8405087 L298.747066,60.9407821 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

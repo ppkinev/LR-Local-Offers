@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="10px" height="12px" viewBox="0 0 10 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-Landing" transform="translate(-748.000000, -494.000000)" fill-rule="nonzero" fill="#003D99">
+            <g id="-map" transform="translate(621.000000, 276.000000)">
+                <g id="Group-3" transform="translate(98.000000, 215.000000)">
+                    <g id="ic_room_black_24px" transform="translate(0.000000, 3.000000)">
+                        <path d="M34.0736391,0.178939843 C31.7923905,0.178939843 29.9473496,2.0239807 29.9473496,4.30522929 C29.9473496,7.39994638 34.0736391,11.9683383 34.0736391,11.9683383 C34.0736391,11.9683383 38.1999285,7.39994638 38.1999285,4.30522929 C38.1999285,2.0239807 36.3548877,0.178939843 34.0736391,0.178939843 Z M34.0736391,5.7789041 C33.2601706,5.7789041 32.5999643,5.11869778 32.5999643,4.30522929 C32.5999643,3.4917608 33.2601706,2.83155449 34.0736391,2.83155449 C34.8871075,2.83155449 35.5473139,3.4917608 35.5473139,4.30522929 C35.5473139,5.11869778 34.8871075,5.7789041 34.0736391,5.7789041 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
